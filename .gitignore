@@ -1,0 +1,35 @@
+# =====================================================================
+# Fichier .gitignore pour un projet Maven JavaFX / JDBC (IntelliJ, VS Code, Eclipse)
+# =====================================================================
+
+# Dossier de sortie de compilation et d'empaquetage de Maven
+target/
+
+# Fichiers compilés Java (bytecode et archives)
+*.class
+*.jar
+*.war
+*.ear
+
+# Configuration spécifique à l'IDE IntelliJ IDEA
+.idea/
+*.iml
+out/
+
+# Configuration spécifique à Eclipse et NetBeans
+.classpath
+.project
+.settings/
+nbproject/
+
+# Configuration spécifique à Visual Studio Code
+.vscode/
+
+# Fichiers de journaux (logs) et fichiers temporaires du système d'exploitation
+*.log
+.DS_Store
+Thumbs.db
+
+# Fichiers de configuration locale contenant des mots de passe ou secrets
+.env
+db_local.properties
