@@ -1,4 +1,4 @@
-# ☕ TP 1.4 — JavaFX + JDBC (MySQL)
+# TP 1.4 — JavaFX + JDBC (MySQL)
 
 ![Java](https://img.shields.io/badge/Java-ed8b00?style=flat-square&logo=openjdk&logoColor=white) ![JavaFX](https://img.shields.io/badge/JavaFX_23-2b5b84?style=flat-square) ![Maven](https://img.shields.io/badge/Maven-c71a36?style=flat-square&logo=apachemaven&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479a1?style=flat-square&logo=mysql&logoColor=white)
 
